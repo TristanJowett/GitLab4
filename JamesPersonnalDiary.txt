@@ -1,2 +1,6 @@
 JamesPersonnalDiary
+
 Hello World!
+
+I am James. I am happy :).
+
