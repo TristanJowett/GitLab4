@@ -1,1 +1,2 @@
 JamesPersonnalDiary
+Hello World!
